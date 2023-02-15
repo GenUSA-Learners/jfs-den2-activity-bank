@@ -1,6 +1,6 @@
 # Deploying to github pages
 
-**1. Create a new repository, clone it, add an index.html, add something to the body of the HTML (could be `<h1>Your Name</h1>`, could be an `<img>` of something. You might have to google or use other README's if your unsure.), push your changes to github.**
+**1. Create a new repository, clone it, add an index.html, add something to the body of the HTML (could be `<h1>Your Name</h1>`, could be an `<img>` of something. You might have to google or use other [README's](https://github.com/reanderson89/jfs-den2-activity-bank/blob/main/01-git-github-scrum/01-Github-git-repo-setup/README.md) if your unsure.), push your changes to github.**
 
 **2. In your repository on github, go to the "Settings" tab, then click the "Pages" tab on the left.**
 
